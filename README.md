@@ -1,6 +1,6 @@
 # PaperPlaneGame
 ## Gameplay
-![](PapPlaneGameClip.MOV)
+![](https://media.giphy.com/media/1nPdy5wwC7UMQ0eGiF/giphy.gif)
 
 ## Game Images
 ![](PapPlaneGameImages/Image1.png)
